@@ -1,2 +1,2 @@
 # calculator_for_teachers
-Proyecto creador por Miguel Vidal Bellido
+:mega: Proyecto creador por Miguel Vidal Bellido  :mega:
