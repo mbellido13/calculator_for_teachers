@@ -1,0 +1,14 @@
+TENDREMOS TODOS LOS DATOS SOBRE LAS DUDAS QUE NOS HAN SURGIDO Y COMO LAS HEMOS
+IDO SOLUCIONANDO
+
+2021/1/24   ESTRUCTURA DE LOS FICHEROS
+
+    El programa se basara en la carpeta principal *ADUYP* donde se encontrar
+    todo el contenido.
+
+    ADUYP
+      DATABASE
+        database.txt
+      PROFESORES
+        CURSOS
+          CLASES
